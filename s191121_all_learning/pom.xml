@@ -12,6 +12,7 @@
         <module>s191121SparkQuickStart</module>
         <module>s191122SparkDianjiliu</module>
         <module>s191126SparkSQL</module>
+        <module>s191127SparkStreaming</module>
     </modules>
 
 

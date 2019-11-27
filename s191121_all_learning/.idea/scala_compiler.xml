@@ -19,5 +19,11 @@
         <parameter value="F:\develop\idea\idea_allProjects\s191121_all_learning\s191126SparkSQL\target/.scala_dependencies" />
       </parameters>
     </profile>
+    <profile name="Maven 4" modules="s191127SparkStreaming">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="F:\develop\idea\idea_allProjects\s191121_all_learning\s191127SparkStreaming\target/.scala_dependencies" />
+      </parameters>
+    </profile>
   </component>
 </project>

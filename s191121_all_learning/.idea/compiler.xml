@@ -9,6 +9,7 @@
         <module name="s191121SparkQuickStart" />
         <module name="s191122SparkDianjiliu" />
         <module name="s191126SparkSQL" />
+        <module name="s191127SparkStreaming" />
       </profile>
     </annotationProcessing>
   </component>

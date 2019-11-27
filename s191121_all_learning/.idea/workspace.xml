@@ -7,6 +7,7 @@
     <ignored path="$PROJECT_DIR$/s191121SparkQuickStart/target/" />
     <ignored path="$PROJECT_DIR$/s191122SparkDianjiliu/target/" />
     <ignored path="$PROJECT_DIR$/s191126SparkSQL/target/" />
+    <ignored path="$PROJECT_DIR$/s191127SparkStreaming/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,91 +17,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191122SparkDianjiliu/src/main/scala/com/jp/spark/PVCount.scala">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="399">
+              <caret line="111" column="27" selection-start-line="111" selection-start-column="27" selection-end-line="111" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocket.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="83" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="83" />
               <folding>
-                <element signature="e#22#53#0" expanded="true" />
+                <element signature="e#83#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191122SparkDianjiliu/src/main/scala/com/jp/spark/IpLocation.scala">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketTotal.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-399">
-              <caret line="19" column="77" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="77" />
+            <state relative-caret-position="46">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding>
-                <element signature="e#22#65#0" expanded="true" />
+                <element signature="e#83#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SqlOperate.scala">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingReceiverKafka.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="302">
+              <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
               <folding>
-                <element signature="e#25#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/StructDF.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="68" lean-forward="true" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-              <folding>
-                <element signature="e#25#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkHiveSql.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkOperateMysql.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#25#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/WriteJdbc.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-86">
-              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-              <folding>
-                <element signature="e#25#52#0" expanded="true" />
+                <element signature="e#82#131#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkTopN.scala">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingDirectKafka.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="77" column="30" lean-forward="true" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+            <state relative-caret-position="931">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#82#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketWindow.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <folding>
+                <element signature="e#83#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketWindowHotWords.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#83#132#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,6 +118,15 @@
         <option value="$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkOperateMysql.scala" />
         <option value="$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/WriteJdbc.scala" />
         <option value="$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkTopN.scala" />
+        <option value="$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/UserDefineUDAF.scala" />
+        <option value="$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkUDF.scala" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/pom.xml" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocket.scala" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketTotal.scala" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketWindow.scala" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketWindowHotWords.scala" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingReceiverKafka.scala" />
+        <option value="$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingDirectKafka.scala" />
       </list>
     </option>
   </component>
@@ -170,30 +171,25 @@
             <path>
               <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="s191127SparkStreaming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="s191126SparkSQL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="s191126SparkSQL" type="462c0819:PsiDirectoryNode" />
+              <item name="s191127SparkStreaming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="s191126SparkSQL" type="462c0819:PsiDirectoryNode" />
+              <item name="s191127SparkStreaming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="s191126SparkSQL" type="462c0819:PsiDirectoryNode" />
+              <item name="s191127SparkStreaming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
@@ -201,18 +197,11 @@
             <path>
               <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="s191126SparkSQL" type="462c0819:PsiDirectoryNode" />
+              <item name="s191127SparkStreaming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparksql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s191121_all_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s191121_all_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="s191126SparkSQL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkstreaming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574784540027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574872068117" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -253,42 +242,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StructDF">
-    <configuration name="HttpReferTopN" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jp.spark.HttpReferTopN" />
-      <module name="s191122SparkDianjiliu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.spark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IpLocation" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jp.spark.IpLocation" />
-      <module name="s191122SparkDianjiliu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.spark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IpLocationTest001" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="IpLocationTest001" />
-      <module name="s191122SparkDianjiliu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SqlOperate" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jp.sparksql.SqlOperate" />
+  <component name="RunManager" selected="Application.SparkStreamingSocketWindow">
+    <configuration name="SparkFunctionUDAF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jp.sparksql.SparkFunctionUDAF" />
       <module name="s191126SparkSQL" />
       <extension name="coverage">
         <pattern>
@@ -300,8 +256,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StructDF" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jp.sparksql.StructDF" />
+    <configuration name="SparkStreamingSocket" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jp.sparkstreaming.SparkStreamingSocket" />
+      <module name="s191127SparkStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkStreamingSocketTotal" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jp.sparkstreaming.SparkStreamingSocketTotal" />
+      <module name="s191127SparkStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkStreamingSocketWindow" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jp.sparkstreaming.SparkStreamingSocketWindow" />
+      <module name="s191127SparkStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkUDF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jp.sparksql.SparkUDF" />
       <module name="s191126SparkSQL" />
       <extension name="coverage">
         <pattern>
@@ -315,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StructDF" />
-        <item itemvalue="Application.SqlOperate" />
-        <item itemvalue="Application.IpLocation" />
-        <item itemvalue="Application.IpLocationTest001" />
-        <item itemvalue="Application.HttpReferTopN" />
+        <item itemvalue="Application.SparkStreamingSocketWindow" />
+        <item itemvalue="Application.SparkStreamingSocketTotal" />
+        <item itemvalue="Application.SparkStreamingSocket" />
+        <item itemvalue="Application.SparkFunctionUDAF" />
+        <item itemvalue="Application.SparkUDF" />
       </list>
     </recent_temporary>
   </component>
@@ -337,11 +332,13 @@
       <workItem from="1574430525902" duration="5128000" />
       <workItem from="1574685567824" duration="9092000" />
       <workItem from="1574776079259" duration="8113000" />
+      <workItem from="1574861446012" duration="1669000" />
+      <workItem from="1574865757110" duration="5696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26448000" />
+    <option name="totallyTimeSpent" value="33813000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,8 +352,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5274914" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49801588" visible="true" weight="0.5012126" />
+      <window_info id="Structure" order="1" sideWeight="0.5019841" side_tool="true" weight="0.5017182" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -364,7 +361,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3519553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35119048" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +379,7 @@
       <window_info anchor="right" id="Maven" order="3" sideWeight="0.72998136" weight="0.23605497" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" x="536" y="501" width="726" height="142" id="Documentation" order="6" sideWeight="0.2700186" side_tool="true" type="FLOATING" weight="0.23524657" />
+      <window_info anchor="right" x="536" y="501" width="726" height="142" id="Documentation" order="6" sideWeight="0.2700186" side_tool="true" weight="0.23524657" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -492,36 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s191122SparkDianjiliu/src/main/scala/com/jp/spark/IpLocation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="19" column="77" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="77" />
-          <folding>
-            <element signature="e#22#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s191122SparkDianjiliu/src/main/scala/com/jp/spark/PVCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#22#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SqlOperate.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#25#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/s191126SparkSQL/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -529,30 +496,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/student.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191122SparkDianjiliu/src/main/scala/com/jp/spark/PVCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#22#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191122SparkDianjiliu/src/main/scala/com/jp/spark/IpLocation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="77" />
+          <folding>
+            <element signature="e#22#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SqlOperate.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/StructDF.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="32" column="68" lean-forward="true" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
+        <state relative-caret-position="551">
+          <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
           <folding>
             <element signature="e#25#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/student.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkHiveSql.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkOperateMysql.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="437">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#25#52#0" expanded="true" />
           </folding>
@@ -561,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/WriteJdbc.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="589">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
           <folding>
             <element signature="e#25#52#0" expanded="true" />
           </folding>
@@ -571,8 +568,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkTopN.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="77" column="30" lean-forward="true" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        <state relative-caret-position="1463">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/SparkUDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+          <folding>
+            <element signature="e#77#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191126SparkSQL/src/main/scala/com/jp/sparksql/UserDefineUDAF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#77#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="111" column="27" selection-start-line="111" selection-start-column="27" selection-end-line="111" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocket.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="83" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="83" />
+          <folding>
+            <element signature="e#83#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.0.2/spark-streaming_2.11-2.0.2-sources.jar!/org/apache/spark/streaming/dstream/PairDStreamFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="229" column="30" lean-forward="true" selection-start-line="229" selection-start-column="30" selection-end-line="229" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketWindow.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <element signature="e#83#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketWindowHotWords.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#83#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingSocketTotal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#83#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingReceiverKafka.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+          <folding>
+            <element signature="e#82#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s191127SparkStreaming/src/main/scala/com/jp/sparkstreaming/SparkStreamingDirectKafka.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#82#119#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
