@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="s191121SparkQuickStart">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="F:\develop\idea\idea_allProjects\s191121_all_learning\s191121SparkQuickStart\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="s191122SparkDianjiliu">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="F:\develop\idea\idea_allProjects\s191121_all_learning\s191122SparkDianjiliu\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="s191126SparkSQL">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="F:\develop\idea\idea_allProjects\s191121_all_learning\s191126SparkSQL\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
